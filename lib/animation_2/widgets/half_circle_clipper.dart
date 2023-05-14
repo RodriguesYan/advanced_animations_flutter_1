@@ -1,4 +1,4 @@
-import 'package:animation_2_chained/utils/path_extension.dart';
+import 'package:animation_2_chained/animation_2/utils/path_extension.dart';
 import 'package:flutter/material.dart';
 
 class HalfCircleClipper extends CustomClipper<Path> {

@@ -1,7 +1,5 @@
-import 'package:animation_2_chained/animation_2/pages/home_page.dart';
 import 'package:flutter/material.dart';
-
-import 'animation_3_3d/pages/home_page_3.dart';
+import 'package:animation_2_chained/animation_2/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage3(),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }

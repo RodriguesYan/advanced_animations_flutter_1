@@ -1,5 +1,5 @@
-import 'package:animation_2_chained/utils/path_extension.dart';
-import 'package:animation_2_chained/widgets/half_circle_clipper.dart';
+import 'package:animation_2_chained/animation_2/utils/path_extension.dart';
+import 'package:animation_2_chained/animation_2/widgets/half_circle_clipper.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' show pi;
 
